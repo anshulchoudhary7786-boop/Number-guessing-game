@@ -90,7 +90,7 @@ The main objective of this project is to develop a simple game while learning ho
 
 Author
 
-BHAWANA CHOUDHARY
+ANSHUL CHOUDHARY
 
 B.Tech CSE (AI & ML)
 VIT Bhopal University
